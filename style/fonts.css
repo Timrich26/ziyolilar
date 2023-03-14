@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'M300';
+    src: url('../fonts/MUSEOSANSCYRL-300.TTF');
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'M500';
+    src: url('../fonts/MUSEOSANSCYRL-500.TTF');
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'M700';
+    src: url('../fonts/MUSEOSANSCYRL-700.TTF');
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'M900';
+    src: url('../fonts/MUSEOSANSCYRL-900.TTF');
+    font-weight: 900;
+}
